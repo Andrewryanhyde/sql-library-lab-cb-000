@@ -14,3 +14,13 @@ INSERT INTO books (title, year, series_id) VALUES ("Inferno", 2016, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Harry Potter and the prisoner of Azkaban", 2002, 1);
 INSERT INTO books (title, year, series_id) VALUES ("Harry Potter and the Deathly Hallows Part 1", 2014, 1);
 INSERT INTO books (title, year, series_id) VALUES ("Harry Potter and the Deathly Hallows Part 2", 2016, 1);
+
+
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Robert Langdon", "History is Key", "Human", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Peter Solomon", "Knowledge is Key", "Human", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Agent Sato", "Power is Key", "Human", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Katherine Solomon", "Science is Key", "Human", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "Expecto Patronum", "Wizard", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hermione Granger", "Expecto Patronum", "Wizard", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Ron Weesley", "Expecto Patronum", "Wizard", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dumbledor", "Expecto Patronum", "Wizard", 1, 1);
