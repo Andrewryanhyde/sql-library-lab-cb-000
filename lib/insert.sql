@@ -13,7 +13,7 @@ INSERT INTO books (title, year, series_id) VALUES ("The Da Vinci Code", 2007, 2)
 INSERT INTO books (title, year, series_id) VALUES ("Inferno", 2016, 3);
 INSERT INTO books (title, year, series_id) VALUES ("Harry Potter and the prisoner of Azkaban", 2002, 4);
 INSERT INTO books (title, year, series_id) VALUES ("Harry Potter and the Deathly Hallows Part 1", 2014, 5);
-INSERT INTO books (title, year, series_id) VALUES ("Harry Potter and the Deathly Hallows Part 2", 2016, 6;
+INSERT INTO books (title, year, series_id) VALUES ("Harry Potter and the Deathly Hallows Part 2", 2016, 6);
 
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Robert Langdon", "History is Key", "Human", 2, 2);
