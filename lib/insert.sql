@@ -24,3 +24,12 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Har
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hermione Granger", "Expecto Patronum", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Ron Weesley", "Expecto Patronum", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dumbledor", "Expecto Patronum", "Wizard", 1, 1);
+
+INSERT INTO character_books (character_id, book_id) VALUES (1,2)
+INSERT INTO character_books (character_id, book_id) VALUES (2,2)
+INSERT INTO character_books (character_id, book_id) VALUES (3,2)
+INSERT INTO character_books (character_id, book_id) VALUES (4,2)
+INSERT INTO character_books (character_id, book_id) VALUES (5,1)
+INSERT INTO character_books (character_id, book_id) VALUES (6,1)
+INSERT INTO character_books (character_id, book_id) VALUES (7,1)
+INSERT INTO character_books (character_id, book_id) VALUES (8,1)
